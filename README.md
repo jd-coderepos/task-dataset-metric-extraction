@@ -16,4 +16,5 @@ Where the `pdf-file-path` is the input pdf article to extract task, dataset, met
 5. Either the jars can be obtained from source. For convenience, they are also made available here https://drive.google.com/drive/folders/1ax7ah8AInoD-_7amx27VKaSrFV73ggEk?usp=sharing
 
 
-Acknowledgement: This program reuses code modules from IBM's science-result-extractor (https://github.com/IBM/science-result-extractor). A reference url to their paper on the ACL anthology is https://www.aclweb.org/anthology/P19-1513
+#### Acknowledgement: 
+This program reuses code modules from IBM's science-result-extractor (https://github.com/IBM/science-result-extractor). A reference url to their paper on the ACL anthology is https://www.aclweb.org/anthology/P19-1513
